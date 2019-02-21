@@ -1,5 +1,5 @@
-# Machine-learning (this is the final version)
-## Homework 1
+# Machine-learning
+## Homework 1 (it can also be viewed in the folder homework)
 ### problem 1
 Google Colab: https://colab.research.google.com/drive/167NY4m6OomdS_4uM7Sw7uEFAYW6Uz3SR
 ### problem 2
