@@ -1,5 +1,5 @@
 # Machine-learning
-## Homework 1 (it can also be viewed in the folder homework)
+## Homework 1 (it can also be viewed in the folder homework1)
 ### problem 1
 Google Colab: https://colab.research.google.com/drive/167NY4m6OomdS_4uM7Sw7uEFAYW6Uz3SR
 ### problem 2
@@ -10,3 +10,5 @@ Google Colab: https://colab.research.google.com/drive/16SgISDI52p5l-1FFsLVdzJHCe
 Google Colab: https://colab.research.google.com/drive/1T1obo4N_Tqbqho2odxbPYF0Imvhj7hBu
 ### problem 5
 Google Colab: https://colab.research.google.com/drive/1LxaP7vWOvWoxSDGQQMZPep7W17Ae3gMU
+## Homework 2 (it can also be viewed in the folder homework2)
+Google Colab: https://colab.research.google.com/drive/1Kpy_ZQo_61B5U6485ydqJdBqxaa17raT
