@@ -10,5 +10,4 @@ Google Colab: https://colab.research.google.com/drive/16SgISDI52p5l-1FFsLVdzJHCe
 Google Colab: https://colab.research.google.com/drive/1T1obo4N_Tqbqho2odxbPYF0Imvhj7hBu
 ### problem 5
 Google Colab: https://colab.research.google.com/drive/1LxaP7vWOvWoxSDGQQMZPep7W17Ae3gMU
-## Homework 2 (it can also be viewed in the folder homework2)
-Google Colab: https://colab.research.google.com/drive/1Kpy_ZQo_61B5U6485ydqJdBqxaa17raT
+## Homework 2 (in folder homework2)
