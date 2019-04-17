@@ -1,4 +1,5 @@
 # Machine-learning
+## Homework 3 (in folder homework3)
 ## Homework 2 (in folder homework2)
 ## Homework 1 (it can also be viewed in the folder homework1)
 ### problem 1
